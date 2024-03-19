@@ -1,0 +1,8 @@
+Mongo db is a NoSQL document database because it stores data in key:value pair which is dict or json format. 
+If we want to store data we can install the mongo db server and store data there, we can also utlize the cloud service of mongodb which is called atlas. You can connect the local mongo db server to the cloud server we will write a code using python-client. 
+
+I will create a unified python package and we will write code for mongodb, cassandra, mysql. For mongo db we will write the code in such a way that in a single function we are passing our url, db, collection we can store data using insert_data(). So you just need to used the write method.
+
+The setup.cfg is the extension of setup.py, it is the configuration of setup.py, we use it to write extra things. All the things we set there will  be shown in pypi site, each of those headers are called tags.
+
+tox.ini helps to test our codd in our local envrionment while we are doing our contunious integration in github, github provides us with a service called github actions that provides us with a server. So on those based tags we had it will create an environment for each of the python versions specified and then for each of the environment it will install the requirements.txt then run the commands whvh are different tests, -v means verbose
