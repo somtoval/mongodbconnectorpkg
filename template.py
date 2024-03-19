@@ -14,6 +14,7 @@ list_of_files=[
     "src/__init__.py",
     f"src/{package_name}/__init__.py",
     f"src/{package_name}/mongo_crud.py",
+    "tests/__init__.py",
     "tests/unit/__init__.py", # Unit testing is testing individual component of an application but integrated test is testing the different units once
     "tests/unit/unit.py",
     "tests/integration/__init__.py",
