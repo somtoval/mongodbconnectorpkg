@@ -30,6 +30,7 @@ jobs:
     - name: Print Current Directory
       run: |
         pwd
+        ls
         
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v3
