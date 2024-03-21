@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 __version__ = "0.0.3"
 REPO_NAME = "mongodbconnectorpkg"
-PKG_NAME= "database_automation"
+PKG_NAME= "databaseautomation"
 AUTHOR_USER_NAME = "somtoval"
 AUTHOR_EMAIL = "ogbesomto042@gmail.com"
 
