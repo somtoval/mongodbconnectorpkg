@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+requirements_dev.txt
+setup.cfg
+setup.py
+src/database_automation/__init__.py
+src/database_automation/mongo_crud.py
+src/mongodatabaseautomator.egg-info/PKG-INFO
+src/mongodatabaseautomator.egg-info/SOURCES.txt
+src/mongodatabaseautomator.egg-info/dependency_links.txt
+src/mongodatabaseautomator.egg-info/requires.txt
+src/mongodatabaseautomator.egg-info/top_level.txt
