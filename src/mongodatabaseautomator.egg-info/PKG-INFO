@@ -4,7 +4,7 @@ Version: 0.0.4
 Summary: A python package for connecting with database.
 Home-page: https://github.com/somtoval/mongodbconnectorpkg
 Author: somtoval
-Author-email: ogbesomto042@gmail.com
+Author-email: ogbesomto4@gmail.com
 License: MIT
 Project-URL: Bug Tracker, https://github.com/somtoval/mongodbconnectorpkg/issues
 Classifier: Programming Language :: Python :: 3.7
@@ -14,6 +14,7 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.7
 Provides-Extra: testing
 
+#😎
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
 

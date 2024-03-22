@@ -20,7 +20,7 @@ __version__ = "0.0.4"
 REPO_NAME = "mongodbconnectorpkg"
 PKG_NAME= "mongodatabaseautomator"
 AUTHOR_USER_NAME = "somtoval"
-AUTHOR_EMAIL = "ogbesomto042@gmail.com"
+AUTHOR_EMAIL = "ogbesomto4@gmail.com"
 
 setup(
     name=PKG_NAME,
