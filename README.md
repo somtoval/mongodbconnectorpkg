@@ -1,3 +1,4 @@
+#😎
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
 
